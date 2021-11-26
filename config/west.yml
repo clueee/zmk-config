@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: stephen
-      revision: stephen/split-encoder
+      revision: split-encoder
       import: app/west.yml
   self:
     path: config
