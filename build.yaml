@@ -23,13 +23,13 @@ include:
     shield: corne_left
   - board: mikoto@5.20
     shield: corne_right
-include:
-  - board: mikoto@5.20
-    shield: corne_left
-  - board: mikoto@5.20
-    shield: corne_right
-include:
-  - board: mikoto@5.20
-    shield: corne_left
-  - board: mikoto@5.20
-    shield: corne_right
+# include:
+#  - board: mikoto@5.20
+#   shield: corne_left
+#  - board: mikoto@5.20
+#    shield: corne_right
+# include:
+#  - board: mikoto@5.20
+#    shield: corne_left
+#  - board: mikoto@5.20
+#    shield: corne_right
